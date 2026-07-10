@@ -14,7 +14,7 @@ To track my daily progress and maintain an engineering discipline, I regularly d
 
 ### 📘 Featured Repositories & Documentation
 
-* 🚀 **[Technical Learning Journal](./../learning-journal)**: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
+* 🚀 **[Technical Learning Journal](https://github.com/OzanCyberEngineer/learning-journal)**: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
     * *Topics covered inside:* OSI Model, MAC/Ethernet Security, IPv4 Architecture & Subnetting, ARP Poisoning (MitM) Analysis.
 
 ---
