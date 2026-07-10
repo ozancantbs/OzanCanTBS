@@ -6,16 +6,20 @@
 </p>
 
 ### 🎯 About Me
-I am a dedicated student and computer engineering enthusiast focusing heavily on **Cybersecurity, Network Architecture, and Defensive Security**. I believe that a great security professional must have a flawless understanding of system and network foundations. 
+I am a dedicated computer engineering senior student focusing heavily on **Cybersecurity, Network Architecture, and Defensive Security**. I believe that a great security professional must have a flawless understanding of system and network foundations. 
 
 To track my daily progress and maintain an engineering discipline, I regularly document my studies and technical analysis.
 
 ---
 
-### 📘 Featured Repositories & Documentation
+### 📂 Featured Repositories & Academic Projects
 
-* 🚀 **[Technical Learning Journal](https://github.com/OzanCyberEngineer/learning-journal)**: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
+* 🚀 **[Technical Learning Journal](https://github.com/OzanCyberEngineer/learning-journal)**: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
     * *Topics covered inside:* OSI Model, MAC/Ethernet Security, IPv4 Architecture & Subnetting, ARP Poisoning (MitM) Analysis.
+
+* 🎓 **[Student Information System Project](https://github.com/OzanCyberEngineer/student-information-system-project)**: An academic software development project that includes comprehensive system logic and documentation.
+
+* 🗄️ **[World Cup Database Management](https://github.com/OzanCyberEngineer/World-cup-database-management)**: A repository dedicated to database architecture, structured query analysis, and data management principles.
 
 ---
 
