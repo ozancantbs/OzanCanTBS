@@ -15,7 +15,12 @@ To track my daily progress and maintain an engineering discipline, I regularly d
 ### 📂 Featured Repositories & Academic Projects
 
 * 🚀 **[Technical Learning Journal](https://github.com/OzanCyberEngineer/learning-journal)**: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
-    * *Topics covered inside:* OSI Model, MAC/Ethernet Security, IPv4 Architecture & Subnetting, ARP Poisoning (MitM) Analysis.
+    * 🎯 **Topics Covered & Learning Roadmap**: 
+  * 🌐 **Networking Foundations** *(Completed)*: OSI & TCP/IP Models, MAC/Ethernet Security, IPv4 Architecture & Subnetting, DNS Infrastructure & Security, Port/Transport Protocols (TCP/UDP), ARP Poisoning (MitM) Analysis.
+  * 🐧 **Linux Foundations & Hardening** *(In Progress)*: File System Hierarchy, Core CLI Utilities, Log Analysis, Permissions & SUID Vulnerabilities, SSH Server Hardening.
+  * 🐍 **Python for Cybersecurity** *(Upcoming)*: Automation Scripts, Socket Programming, Network Scanners, Log Parsers.
+  * ☁️ **Cloud Security Fundamentals** *(Upcoming)*: AWS/Azure Security Basics, IAM Policies, Cloud Network Segmentation.
+  * 🛡️ **Defensive Security & SOC Operations** *(Upcoming)*: SIEM (Splunk/ELK), Traffic Analysis with Wireshark, Incident Response, Firewalls & IDS/IPS.
 
 * 🎓 **[Student Information System Project](https://github.com/OzanCyberEngineer/student-information-system-project)**: An academic software development project that includes comprehensive system logic and documentation.
 
