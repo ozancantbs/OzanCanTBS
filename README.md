@@ -1,14 +1,11 @@
-# 👋 Hi, I'm Ozan | Cyber Security & Network Trainee
+# 👋 Hi, I'm Ozan | Junior DevSecOps & Security Engineer
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Security%20Engineer%20Aspirant-blue?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-Network%20Security%20%26%20Defensive%20Security-red?style=for-the-badge" alt="Focus">
-</p>
+![Role](https://img.shields.io/badge/ROLE-SECURITY_ENGINEER-blue?style=for-the-badge) ![Focus](https://img.shields.io/badge/FOCUS-DEVSECOPS_%26_DEFENSIVE_SECURITY-red?style=for-the-badge)
 
 ### 🎯 About Me
-I am a dedicated computer engineering senior student focusing heavily on **Cybersecurity, Network Architecture, and Defensive Security**. I believe that a great security professional must have a flawless understanding of system and network foundations. 
+I am a dedicated Computer Engineering student focusing heavily on **Cybersecurity, Infrastructure Security, and DevSecOps**. I believe that a great security professional must have a flawless understanding of system, network, and automation foundations.
 
-To track my daily progress and maintain an engineering discipline, I regularly document my studies and technical analysis.
+To track my daily progress and maintain a rigorous engineering discipline, I regularly document my comprehensive studies, network captures, and technical system analyses in this learning journal.
 
 ---
 
