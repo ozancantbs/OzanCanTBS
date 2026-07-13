@@ -14,13 +14,13 @@ To track my daily progress and maintain a rigorous engineering discipline, I reg
 * 🚀 Technical Learning Journal: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
 
     * 🎯 Topics Covered & Learning Roadmap:
-    * 🌐 Networking Foundations (Completed ✅): OSI & TCP/IP Models, MAC/Ethernet Security, IPv4 Architecture & Subnetting, DNS Infrastructure & Security, Port/Transport Protocols (TCP/UDP), ARP Poisoning (MitM) Analysis.
-    * 🐧 Linux Basics & Hardening (Completed ✅): File System Hierarchy, Core CLI Utilities, Log Analysis, Permissions & SUID Vulnerabilities, Processes & Signal Management.
-    * 🛡️ CyberSecurity & Incident Management (In Progress ⏳): Threat Hunting, Incident Response, SIEM (Splunk/ELK), Traffic Analysis with Wireshark, Firewalls & IDS/IPS.
-    * 📦 Docker and Kubernetes (Upcoming 🌟): Container Security, Microservices Architecture, Orchestration Hardening.
-    * ⚙️ IaC and CICD (Upcoming 🌟): Infrastructure as Code Security, Automated Testing, DevSecOps Pipelines.
-    * 🐍 Automation (Bash & Python) (Upcoming 🌟): Automation Scripts, Socket Programming, Network Scanners, Log Parsers.
-    * ☁️ Monitoring and Cloud (Upcoming 🌟): AWS/Azure Security Basics, IAM Policies, Cloud Network Segmentation, Cloud Logging & Monitoring.
+    * 🌐 Networking Foundations : OSI & TCP/IP Models, MAC/Ethernet Security, IPv4 Architecture & Subnetting, DNS Infrastructure & Security, Port/Transport Protocols (TCP/UDP), ARP Poisoning (MitM) Analysis.
+    * 🐧 Linux Basics & Hardening : File System Hierarchy, Core CLI Utilities, Log Analysis, Permissions & SUID Vulnerabilities, Processes & Signal Management.
+    * 🛡️ CyberSecurity & Incident Management : Threat Hunting, Incident Response, SIEM (Splunk/ELK), Traffic Analysis with Wireshark, Firewalls & IDS/IPS.
+    * 📦 Docker and Kubernetes : Container Security, Microservices Architecture, Orchestration Hardening.
+    * ⚙️ IaC and CICD : Infrastructure as Code Security, Automated Testing, DevSecOps Pipelines.
+    * 🐍 Automation (Bash & Python) : Automation Scripts, Socket Programming, Network Scanners, Log Parsers.
+    * ☁️ Monitoring and Cloud : AWS/Azure Security Basics, IAM Policies, Cloud Network Segmentation, Cloud Logging & Monitoring.
 
 * 🎓 **[Student Information System Project](https://github.com/OzanCyberEngineer/student-information-system-project)**: An academic software development project that includes comprehensive system logic and documentation.
 
