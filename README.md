@@ -12,15 +12,18 @@ To track my daily progress and maintain an engineering discipline, I regularly d
 
 ---
 
-### 📂 Featured Repositories & Academic Projects
+📁 Featured Repositories & Academic Projects
 
-* 🚀 **[Technical Learning Journal](https://github.com/OzanCyberEngineer/learning-journal)**: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
-    * 🎯 **Topics Covered & Learning Roadmap**: 
-  * 🌐 **Networking Foundations** *(Completed)*: OSI & TCP/IP Models, MAC/Ethernet Security, IPv4 Architecture & Subnetting, DNS Infrastructure & Security, Port/Transport Protocols (TCP/UDP), ARP Poisoning (MitM) Analysis.
-  * 🐧 **Linux Foundations & Hardening** *(In Progress)*: File System Hierarchy, Core CLI Utilities, Log Analysis, Permissions & SUID Vulnerabilities, SSH Server Hardening.
-  * 🐍 **Python for Cybersecurity** *(Upcoming)*: Automation Scripts, Socket Programming, Network Scanners, Log Parsers.
-  * ☁️ **Cloud Security Fundamentals** *(Upcoming)*: AWS/Azure Security Basics, IAM Policies, Cloud Network Segmentation.
-  * 🛡️ **Defensive Security & SOC Operations** *(Upcoming)*: SIEM (Splunk/ELK), Traffic Analysis with Wireshark, Incident Response, Firewalls & IDS/IPS.
+* 🚀 Technical Learning Journal: This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
+
+    * 🎯 Topics Covered & Learning Roadmap:
+    * 🌐 Networking Foundations (Completed ✅): OSI & TCP/IP Models, MAC/Ethernet Security, IPv4 Architecture & Subnetting, DNS Infrastructure & Security, Port/Transport Protocols (TCP/UDP), ARP Poisoning (MitM) Analysis.
+    * 🐧 Linux Basics & Hardening (Completed ✅): File System Hierarchy, Core CLI Utilities, Log Analysis, Permissions & SUID Vulnerabilities, Processes & Signal Management.
+    * 🛡️ CyberSecurity & Incident Management (In Progress ⏳): Threat Hunting, Incident Response, SIEM (Splunk/ELK), Traffic Analysis with Wireshark, Firewalls & IDS/IPS.
+    * 📦 Docker and Kubernetes (Upcoming 🌟): Container Security, Microservices Architecture, Orchestration Hardening.
+    * ⚙️ IaC and CICD (Upcoming 🌟): Infrastructure as Code Security, Automated Testing, DevSecOps Pipelines.
+    * 🐍 Automation (Bash & Python) (Upcoming 🌟): Automation Scripts, Socket Programming, Network Scanners, Log Parsers.
+    * ☁️ Monitoring and Cloud (Upcoming 🌟): AWS/Azure Security Basics, IAM Policies, Cloud Network Segmentation, Cloud Logging & Monitoring.
 
 * 🎓 **[Student Information System Project](https://github.com/OzanCyberEngineer/student-information-system-project)**: An academic software development project that includes comprehensive system logic and documentation.
 
