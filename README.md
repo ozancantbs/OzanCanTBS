@@ -32,10 +32,10 @@ To track my daily progress and maintain a rigorous engineering discipline, I reg
 ---
 ---
 ---
-##🎓 **[Student Information System Project](https://github.com/OzanCyberEngineer/student-information-system-project)**: An academic software development project that includes comprehensive system logic and documentation.
+* 🎓 **[Student Information System Project](https://github.com/OzanCyberEngineer/student-information-system-project)**: An academic software development project that includes comprehensive system logic and documentation.
 ---
 ---
-##🗄️ **[World Cup Database Management](https://github.com/OzanCyberEngineer/World-cup-database-management)**: A repository dedicated to database architecture, structured query analysis, and data management principles.
+* 🗄️ **[World Cup Database Management](https://github.com/OzanCyberEngineer/World-cup-database-management)**: A repository dedicated to database architecture, structured query analysis, and data management principles.
 
 ---
 
