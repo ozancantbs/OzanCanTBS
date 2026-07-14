@@ -9,7 +9,7 @@ To track my daily progress and maintain a rigorous engineering discipline, I reg
 
 ---
 
-📁 Featured Repositories & Academic Projects
+📁 ## Featured Repositories & Academic Projects
 
 * 🚀 [Technical Learning Journal](https://github.com/OzanCyberEngineer/Learning-Journal): This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
 
@@ -29,9 +29,10 @@ To track my daily progress and maintain a rigorous engineering discipline, I reg
   ---
     * ☁️ **Cloud Computing & Site Reliability Engineering (SRE):** AWS Core Services (VPC, EC2, IAM Least Privilege, CloudWatch), Hybrid Cloud, High Availability (HA) designs, SLO/SLI/SLA metrics, and disaster recovery strategies.
 ---
-* 🎓 **[Student Information System Project](https://github.com/OzanCyberEngineer/student-information-system-project)**: An academic software development project that includes comprehensive system logic and documentation.
 ---
-* 🗄️ **[World Cup Database Management](https://github.com/OzanCyberEngineer/World-cup-database-management)**: A repository dedicated to database architecture, structured query analysis, and data management principles.
+* ##🎓 **[Student Information System Project](https://github.com/OzanCyberEngineer/student-information-system-project)**: An academic software development project that includes comprehensive system logic and documentation.
+---
+* ##🗄️ **[World Cup Database Management](https://github.com/OzanCyberEngineer/World-cup-database-management)**: A repository dedicated to database architecture, structured query analysis, and data management principles.
 
 ---
 
