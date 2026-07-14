@@ -9,7 +9,7 @@ To track my daily progress and maintain a rigorous engineering discipline, I reg
 
 ---
 
-📁 ## Featured Repositories & Academic Projects
+## 📁 Featured Repositories & Academic Projects
 
 * 🚀 [Technical Learning Journal](https://github.com/OzanCyberEngineer/Learning-Journal): This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
 
