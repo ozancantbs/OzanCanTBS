@@ -13,14 +13,14 @@ To track my daily progress and maintain a rigorous engineering discipline, I reg
 
 * 🚀 [Technical Learning Journal](https://github.com/OzanCyberEngineer/Learning-Journal): This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
 
-    * 🎯 Topics Covered & Learning Roadmap:
-    * 🌐 Networking Foundations : OSI & TCP/IP Models, MAC/Ethernet Security, IPv4 Architecture & Subnetting, DNS Infrastructure & Security, Port/Transport Protocols (TCP/UDP), ARP Poisoning (MitM) Analysis.
-    * 🐧 Linux Basics & Hardening : File System Hierarchy, Core CLI Utilities, Log Analysis, Permissions & SUID Vulnerabilities, Processes & Signal Management.
-    * 🛡️ CyberSecurity & Incident Management : Threat Hunting, Incident Response, SIEM (Splunk/ELK), Traffic Analysis with Wireshark, Firewalls & IDS/IPS.
-    * 📦 Docker and Kubernetes : Container Security, Microservices Architecture, Orchestration Hardening.
-    * ⚙️ IaC and CICD : Infrastructure as Code Security, Automated Testing, DevSecOps Pipelines.
-    * 🐍 Automation (Bash & Python) : Automation Scripts, Socket Programming, Network Scanners, Log Parsers.
-    * ☁️ Monitoring and Cloud : AWS/Azure Security Basics, IAM Policies, Cloud Network Segmentation, Cloud Logging & Monitoring.
+    * 🎯 **Topics Covered & Learning Roadmap:**
+    * 🌐 **Networking Foundations & Advanced SDN:** OSI & TCP/IP Models, MAC/Ethernet Security, IPv4 Architecture & Subnetting, DNS Infrastructure & Security, Port/Transport Protocols (TCP/UDP), ARP Poisoning (MitM) Analysis, **VLAN/VXLAN Overlay Networks, DHCP Security (Snooping & Starvation), L4/L7 Load Balancing & Proxies**.
+    * 🐧 **Enterprise Linux & System Hardening:** File System Hierarchy, Core CLI Utilities, Log Analysis, Permissions & **POSIX ACLs**, Processes & Signal Management, **LVM (Logical Volume Manager) Storage**, **Systemd Service Architecture**, and privilege escalation vector hardening.
+    * 🛡️ **CyberSecurity & Incident Management:** Threat Hunting, Incident Response, SIEM (Splunk/ELK), Traffic Analysis with Wireshark, Firewalls & IDS/IPS, **Threat Modeling (Cyber Kill Chain)**, and **Linux Hardening Frameworks**.
+    * 📦 **Containerization & Production-Grade Orchestration:** Docker Engine internals (Namespaces & Cgroups), Multi-stage Builds, Kubernetes Architecture, Microservices Network Policies, and Orchestration Hardening.
+    * ⚙️ **IaC & CI/CD Security (DevSecOps):** Infrastructure as Code (Terraform State & Module Management), Configuration Management (Ansible Agentless Playbooks), and Automated DevSecOps Pipelines (GitHub Actions/GitLab CI, GitOps with ArgoCD).
+    * 🐍 **Automation & Systems Scripting:** Bash Scripting (Error handling & automation), Python for DevOps, socket programming, network scanners, and automated log parsers.
+    * ☁️ **Cloud Computing & Site Reliability Engineering (SRE):** AWS Core Services (VPC, EC2, IAM Least Privilege, CloudWatch), Hybrid Cloud, High Availability (HA) designs, SLO/SLI/SLA metrics, and disaster recovery strategies.
 
 * 🎓 **[Student Information System Project](https://github.com/OzanCyberEngineer/student-information-system-project)**: An academic software development project that includes comprehensive system logic and documentation.
 
