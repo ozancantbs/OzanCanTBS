@@ -1,36 +1,73 @@
-# 👋 Hi, I'm Ozan | Computer Engineering Student | DevSecOps & Security Enthusiast
-
+# 👋 Hi, I'm Ozan
 ![Role](https://img.shields.io/badge/ROLE-SECURITY_ENGINEER-blue?style=for-the-badge) ![Focus](https://img.shields.io/badge/FOCUS-DEVSECOPS_%26_DEFENSIVE_SECURITY-red?style=for-the-badge)
 
-### 🎯 About Me
-I am a dedicated Computer Engineering student focusing heavily on **Cybersecurity, Infrastructure Security, and DevSecOps**. I believe that a great security professional must have a flawless understanding of system, network, and automation foundations.
 
+**Computer Engineering Student | DevSecOps & Cybersecurity Enthusiast**
 
+I am a Computer Engineering student focused on **Cybersecurity, Infrastructure Security, Linux Systems, and DevSecOps**.
 
----
+I believe that becoming a capable security engineer requires a strong understanding of the systems being protected. For this reason, I am building my knowledge progressively across networking, Linux administration, automation, cloud infrastructure, containerization, and security operations.
 
-## 📁 Featured Repositories & Academic Projects
----
-* This repository is an ongoing learning journal. Modules and project directories are created according to the planned roadmap and will be completed progressively as I advance through each level.
----
+## 🎯 Current Focus
 
-* 🚀 [Technical Learning Journal](https://github.com/OzanCyberEngineer/Learning-Journal): This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
+* Network and infrastructure security
+* Linux system administration and hardening
+* DevSecOps practices and secure automation
+* Cloud and container security
+* Technical documentation in English and Turkish
 
-    * 🎯 **Topics Covered & Learning Roadmap:**
-    ---
-    * 🌐 **Networking Foundations & Advanced SDN:** OSI & TCP/IP Models, MAC/Ethernet Security, IPv4 Architecture & Subnetting, DNS Infrastructure & Security, Port/Transport Protocols (TCP/UDP), ARP Poisoning (MitM) Analysis, **VLAN/VXLAN Overlay Networks, DHCP Security (Snooping & Starvation), L4/L7 Load Balancing & Proxies**.
-  ---
-    * 🐧 **Enterprise Linux & System Hardening:** File System Hierarchy, Core CLI Utilities, Log Analysis, Permissions & **POSIX ACLs**, Processes & Signal Management, **LVM (Logical Volume Manager) Storage**, **Systemd Service Architecture**, and privilege escalation vector hardening.
-  ---
-    * 🛡️ **CyberSecurity & Incident Management:** Threat Hunting, Incident Response, SIEM (Splunk/ELK), Traffic Analysis with Wireshark, Firewalls & IDS/IPS, **Threat Modeling (Cyber Kill Chain)**, and **Linux Hardening Frameworks**.
-  ---
-    * 📦 **Containerization & Production-Grade Orchestration:** Docker Engine internals (Namespaces & Cgroups), Multi-stage Builds, Kubernetes Architecture, Microservices Network Policies, and Orchestration Hardening.
-  ---
-    * ⚙️ **IaC & CI/CD Security (DevSecOps):** Infrastructure as Code (Terraform State & Module Management), Configuration Management (Ansible Agentless Playbooks), and Automated DevSecOps Pipelines (GitHub Actions/GitLab CI, GitOps with ArgoCD).
-  ---
-    * 🐍 **Automation & Systems Scripting:** Bash Scripting (Error handling & automation), Python for DevOps, socket programming, network scanners, and automated log parsers.
-  ---
-    * ☁️ **Cloud Computing & Site Reliability Engineering (SRE):** AWS Core Services (VPC, EC2, IAM Least Privilege, CloudWatch), Hybrid Cloud, High Availability (HA) designs, SLO/SLI/SLA metrics, and disaster recovery strategies.
+## 📁 Featured Project
+
+### 🚀 Technical Learning Journal
+
+My primary repository is an ongoing, structured learning journal covering infrastructure, cybersecurity, and DevSecOps.
+
+I document technical concepts, protocol behavior, security risks, hardening techniques, and practical implementations in both **English and Turkish**.
+
+The repository follows a progressive roadmap. Modules and project directories are completed gradually as I advance through each level.
+
+## 🧭 Learning Roadmap
+
+### 🌐 Networking and Infrastructure
+
+OSI and TCP/IP models, Ethernet and MAC addressing, IPv4 and subnetting, routing, DNS, DHCP, TCP/UDP, ARP security, VLAN/VXLAN, proxies, load balancing, and software-defined networking concepts.
+
+### 🐧 Linux Administration and System Hardening
+
+Linux file systems, command-line utilities, permissions and ACLs, process management, systemd, logging, storage management, service configuration, SSH security, and privilege-escalation hardening.
+
+### 🛡️ Cybersecurity and Incident Management
+
+Traffic analysis, vulnerability analysis, threat modeling, firewalls, IDS/IPS, SIEM platforms, threat hunting, incident response, and Linux security frameworks.
+
+### 📦 Containers and Orchestration
+
+Docker architecture, namespaces, cgroups, image optimization, multi-stage builds, Kubernetes architecture, microservices networking, network policies, and container hardening.
+
+### ⚙️ Infrastructure as Code and CI/CD Security
+
+Terraform, Ansible, GitHub Actions, GitLab CI/CD, secure pipeline design, infrastructure automation, secrets management, security scanning, and GitOps with Argo CD.
+
+### 🐍 Automation and Systems Scripting
+
+Bash scripting, Python for DevOps and security automation, socket programming, network utilities, log parsing, and repetitive task automation.
+
+### ☁️ Cloud Computing and SRE
+
+AWS core services, VPC architecture, IAM, monitoring, high availability, hybrid cloud concepts, disaster recovery, observability, and SLI/SLO/SLA practices.
+
+## 🏗️ Portfolio Goal
+
+My long-term goal is to transform the knowledge documented in this journal into progressively more advanced portfolio projects involving:
+
+* Secure Linux infrastructure
+* Containerized DevSecOps environments
+* Cloud-native platforms with automation, monitoring, and security controls
+
+## 📫 Connect With Me
+
+I am currently improving my technical foundation and building projects in **DevSecOps, cloud infrastructure, and cybersecurity**.
+
 ---
 ---
 ---
