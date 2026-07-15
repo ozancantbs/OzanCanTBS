@@ -5,7 +5,10 @@
 ### 🎯 About Me
 I am a dedicated Computer Engineering student focusing heavily on **Cybersecurity, Infrastructure Security, and DevSecOps**. I believe that a great security professional must have a flawless understanding of system, network, and automation foundations.
 
-To track my daily progress and maintain a rigorous engineering discipline, I regularly document my comprehensive studies, network captures, and technical system analyses in this learning journal.
+This repository is an ongoing learning journal.
+
+Modules and project directories are created according to the planned
+roadmap and will be completed progressively as I advance through each level.
 
 ---
 
