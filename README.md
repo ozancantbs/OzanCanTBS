@@ -18,7 +18,7 @@ I believe that becoming a capable security engineer requires a strong understand
 
 ## 📁 Featured Project
 
-### 🚀 [Technical Learning Journal](Learning-Journal/README.md)
+### 🚀 [Technical Learning Journal](https://github.com/OzanCyberEngineer/Learning-Journal/blob/main/README.md)
 
 My primary repository is an ongoing, structured learning journal covering infrastructure, cybersecurity, and DevSecOps.
 
