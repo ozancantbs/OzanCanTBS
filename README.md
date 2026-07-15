@@ -11,10 +11,7 @@ I am a dedicated Computer Engineering student focusing heavily on **Cybersecurit
 
 ## 📁 Featured Repositories & Academic Projects
 ---
-This repository is an ongoing learning journal.
-
-Modules and project directories are created according to the planned
-roadmap and will be completed progressively as I advance through each level.
+* This repository is an ongoing learning journal. Modules and project directories are created according to the planned roadmap and will be completed progressively as I advance through each level.
 ---
 
 * 🚀 [Technical Learning Journal](https://github.com/OzanCyberEngineer/Learning-Journal): This is my primary progress repository. I write detailed technical reports and analyze vulnerabilities/protocols in both English and Turkish.
