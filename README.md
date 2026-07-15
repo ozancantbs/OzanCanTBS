@@ -78,17 +78,3 @@ I am currently improving my technical foundation and building projects in **DevS
 
 ---
 
-### 🛠️ Technical Skillset (Current Focus)
-
-| Domain | Technologies & Concepts |
-| :--- | :--- |
-| **Networking** | OSI & TCP/IP Models, Subnetting, Routing, ARP, Wireshark, Core Protocols |
-| **Operating Systems** | Linux Foundations, Windows Administration |
-| **Security Concepts** | Network Segmentation, Traffic Analysis, MitM Attacks, Device Hardening |
-| **Tools & Dev** | Git/GitHub, Python (Basic Security Scripting), Obsidian |
-
----
-
-### 📬 Connect with Me
-* **GitHub Progress:** Check out my contribution graph below to see my daily consistency!
-* *Feel free to explore my repositories or contact me if you are looking for a highly motivated junior/trainee security engineer.*
