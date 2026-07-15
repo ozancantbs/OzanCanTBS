@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ozan | Junior DevSecOps & Security Engineer
+# 👋 Hi, I'm Ozan | Computer Engineering Student | DevSecOps & Security Enthusiast
 
 ![Role](https://img.shields.io/badge/ROLE-SECURITY_ENGINEER-blue?style=for-the-badge) ![Focus](https://img.shields.io/badge/FOCUS-DEVSECOPS_%26_DEFENSIVE_SECURITY-red?style=for-the-badge)
 
