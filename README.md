@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/AI_SECURITY-0F766E?style=for-the-badge" alt="AI Security" />
 </p>
 
-<strong>Computer Engineering student building strong foundations across systems, infrastructure, automation, cloud, reliability and security engineering.</strong>
+<h3><strong>Computer Engineering student building strong foundations across systems, infrastructure, automation, cloud, reliability and security engineering.</strong></h1>
 
 <br><br>
 
