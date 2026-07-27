@@ -139,7 +139,7 @@
 <h1>📫 Connect With Me</h1>
 
 <p>
-  For collaboration, project discussions or professional opportunities:
+  <h4>For collaboration, project discussions or professional opportunities:</h4>
 </p>
 
 <p>
@@ -153,7 +153,5 @@
 </p>
 
 <br><br>
-
 <sub><strong>Build the system. Automate the work. Observe the behavior. Secure the platform.</strong></sub>
-
 </div>
