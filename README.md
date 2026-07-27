@@ -110,7 +110,7 @@
 <p align="center">
   <img
     src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_PROJECTS_%F0%9F%9B%A0%EF%B8%8F-B42318?style=for-the-badge"
-    height="76"
+    height="90"
     alt="Projects"
   />
 </p>
