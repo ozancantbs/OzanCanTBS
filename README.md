@@ -107,7 +107,13 @@
 
 ---
 
-<h1>📚 Other Projects</h1>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_PROJECTS_%F0%9F%9B%A0%EF%B8%8F-B42318?style=for-the-badge"
+    height="52"
+    alt="Projects"
+  />
+</p>
 
 <h2>
   🎓 <a href="https://github.com/ozancantbs/New-University-Student-Portal-">
