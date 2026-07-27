@@ -40,65 +40,65 @@
 
 <h1>👨‍💻 About Me</h1>
 
-<h3>I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.</h3>
+<h3>* I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.</h3>
 
-Current Technical Direction
+* Current Technical Direction
 
-Network and infrastructure security
+* Network and infrastructure security
 
-Linux administration and system hardening
+* Linux administration and system hardening
 
-Secure automation and DevSecOps practices
+* Secure automation and DevSecOps practices
 
-Cloud, container and platform security
+* Cloud, container and platform security
 
-Technical documentation in English and Turkish
+* Technical documentation in English and Turkish
 
 🚀 Featured Project — Technical Learning Journal
 
-Explore the Learning Journal
+* Explore the Learning Journal
 
-A structured, project-driven repository covering systems, networking, cybersecurity, DevOps, cloud infrastructure, platform engineering and AI security.
+* A structured, project-driven repository covering systems, networking, cybersecurity, DevOps, cloud infrastructure, platform engineering and AI security.
 
-Documentation
+* Documentation
 
-Turkish and English technical notes
+* Turkish and English technical notes
 
-Clear explanations and reference material
+* Clear explanations and reference material
 
-Engineering analysis
+* Engineering analysis
 
-Protocol, architecture and data-flow analysis
+* Protocol, architecture and data-flow analysis
 
-Security risks, limitations and defensive controls
+* Security risks, limitations and defensive controls
 
-Practical work
+* Practical work
 
-Commands, validation steps and troubleshooting
+* Commands, validation steps and troubleshooting
 
-Progressively advanced portfolio projects
+* Progressively advanced portfolio projects
 
 
 
 🏗️ Portfolio Direction
 
-The roadmap transforms documented knowledge into practical, production-oriented work involving:
+* The roadmap transforms documented knowledge into practical, production-oriented work involving:
 
-Hardened Linux infrastructure and security monitoring
+* Hardened Linux infrastructure and security monitoring
 
-Secure container platforms and Kubernetes environments
+* Secure container platforms and Kubernetes environments
 
-Infrastructure as Code and automated configuration management
+* Infrastructure as Code and automated configuration management
 
-Secure CI/CD, software supply-chain controls and GitOps delivery
+* Secure CI/CD, software supply-chain controls and GitOps delivery
 
-AWS architectures, high availability and disaster recovery
+* AWS architectures, high availability and disaster recovery
 
-Centralized metrics, logging, tracing and actionable alerting
+* Centralized metrics, logging, tracing and actionable alerting
 
-Performance testing, reliability validation and incident response
+* Performance testing, reliability validation and incident response
 
-Security-focused platform automation and AI systems security
+* Security-focused platform automation and AI systems security
 
 📚 Other Projects
 
