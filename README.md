@@ -109,7 +109,7 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_PROJECTS_%F0%9F%9B%A0%EF%B8%8F-B42318?style=for-the-badge"
+    src="https://img.shields.io/badge/PROJECTS-B42318?style=for-the-badge&logo=github&logoColor=white"
     height="52"
     alt="Projects"
   />
