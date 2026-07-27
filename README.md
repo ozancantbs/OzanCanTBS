@@ -138,10 +138,15 @@
 
 <h1>📫 Connect With Me</h1>
 
-<h5>I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.</h5>
+<p>
+  For collaboration, project discussions or professional opportunities:
+</p>
 
-<a href="https://github.com/ozancantbs">
-  <img src="https://img.shields.io/badge/GITHUB-ozancantbs-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub profile" />
+<a href="mailto:ozancyberengineer@gmail.com">
+  <img
+    src="https://img.shields.io/badge/📧_SEND_ME_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send me an email"
+  />
 </a>
 
 <br><br>
