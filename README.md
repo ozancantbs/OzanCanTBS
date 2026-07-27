@@ -127,7 +127,7 @@
 <h4>I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.
 
 <a href="https://github.com/ozancantbs">
-  <img src="https://img.shields.io/badge/GITHUB-ozancantbs-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GITHUB-ozancantbs-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub profile" />
 </a>
 
 <br><br>
