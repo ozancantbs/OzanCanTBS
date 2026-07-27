@@ -121,8 +121,8 @@
 
 
 <div align="center">
----
-<h2>📫 Connect With Me</h2>
+
+<h1>📫 Connect With Me</h1>
 
 <h4>I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.
 
