@@ -108,8 +108,6 @@
 
 <h1>📚 Other Projects</h1>
 
----
-
 <h2>🎓 Student Information System</h2>
 
 <h4>Academic software-development project focused on application logic, system structure and technical documentation.</h4>
@@ -119,7 +117,7 @@
 <h2>🗄️ World Cup Database Management</h2>
 
 <h4>Relational-database project focused on schema design, structured queries, data organization and database-management principles.</h4>
----
+
 
 <div align="center">
 
