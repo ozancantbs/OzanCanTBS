@@ -124,10 +124,10 @@
 
 <h1>📫 Connect With Me</h1>
 
-<h4>I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.
+<h5>I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.</h5>
 
 <a href="https://github.com/ozancantbs">
-  <img src="https://img.shields.io/badge/GITHUB-ozancantbs-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GITHUB-ozancantbs-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub profile" />
 </a>
 
 <br><br>
