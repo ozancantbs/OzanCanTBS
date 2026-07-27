@@ -106,6 +106,8 @@
 
 ---
 
+<h1>📚 Other Projects</h1>
+
 <h2>
   🎓 <a href="https://github.com/ozancantbs/New-University-Student-Portal-">
     Student Information System
@@ -124,6 +126,9 @@
 </h2>
 
 <h4>
+  Relational-database project focused on schema design, structured queries,
+  data organization and database-management principles.
+</h4>
   Relational-database project focused on schema design, structured queries,
   data organization and database-management principles.
 </h4>
