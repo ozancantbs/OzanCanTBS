@@ -106,16 +106,27 @@
 
 ---
 
-<h1>📚 Other Projects</h1>
+<h2>
+  🎓 <a href="https://github.com/ozancantbs/New-University-Student-Portal-">
+    Student Information System
+  </a>
+</h2>
 
-<h2>🎓 Student Information System</h2>
+<h4>
+  Academic software-development project focused on application logic,
+  system structure and technical documentation.
+</h4>
 
-<h4>Academic software-development project focused on application logic, system structure and technical documentation.</h4>
+<h2>
+  🗄️ <a href="https://github.com/ozancantbs/World-cup-database-management">
+    World Cup Database Management
+  </a>
+</h2>
 
-<h2>🗄️ [World Cup Database Management](https://github.com/ozancantbs/World-cup-database-management)</h2>
-
-<h4>Relational-database project focused on schema design, structured queries, data organization and database-management principles.</h4>
-
+<h4>
+  Relational-database project focused on schema design, structured queries,
+  data organization and database-management principles.
+</h4>
 
 ---
 
