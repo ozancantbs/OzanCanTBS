@@ -40,7 +40,7 @@
 
 <h1>👨‍💻 About Me</h1>
 
-I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.
+<h2>I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.</h2>
 
 Current Technical Direction
 
@@ -78,94 +78,7 @@ Commands, validation steps and troubleshooting
 
 Progressively advanced portfolio projects
 
-🧭 Engineering Roadmap
 
-🌐 Level 1 — Systems & Security
-
-Engineering scope: Networking, Linux administration, system hardening, security engineering and incident response
-
-Portfolio milestone: Hardened Linux Server & Security Monitoring Lab
-
-📦 Level 2 — Application & Platform Infrastructure
-
-Engineering scope: Web, APIs, databases, Docker, Kubernetes, Terraform and Ansible
-
-Portfolio milestone: Secure Containerized Application Platform with Infrastructure as Code
-
-🔄 Level 3 — Delivery, Automation & Observability
-
-Engineering scope: CI/CD, DevSecOps, GitOps, Bash, Python, software engineering, metrics, logs and traces
-
-Portfolio milestone: Secure CI/CD, GitOps & Observability Platform
-
-☁️ Level 4 — Cloud Reliability & Operations
-
-Engineering scope: AWS, IAM, cloud networking, SRE, high availability, disaster recovery, performance and AI-assisted operations
-
-Portfolio milestone: Resilient AWS Service Platform & SRE Validation
-
-🤖 Level 5 — AI Systems Security
-
-Engineering scope: LLM, RAG and agent security, adversarial ML, MLSecOps, AI supply-chain security, red teaming, monitoring and governance
-
-Portfolio milestone: Secure RAG Security Operations Assistant
-
-🎯 Core Engineering Focus
-
-<details open>
-<summary><strong>🌐 Systems, Networking & Security</strong></summary>
-
-Networking & Infrastructure: OSI/TCP-IP, Ethernet, routing, DNS, DHCP, TCP/UDP, VLAN/VXLAN, segmentation, proxies, load balancing and TLS traffic flow
-
-Linux & System Hardening: Linux architecture, permissions, processes, systemd, storage, networking, SSH, firewalls, auditing, backups and privilege control
-
-Security Engineering: Threat modeling, attack-surface analysis, vulnerability management, cryptography, PKI, SIEM, threat hunting and incident response
-
-</details>
-
-<details>
-<summary><strong>📦 Applications, Data & Platform Infrastructure</strong></summary>
-
-Applications & Data: HTTP/HTTPS, REST APIs, authentication, authorization, JWT, OAuth 2.0, PostgreSQL, MySQL, Redis, transactions and data protection
-
-Containers & Kubernetes: Docker, container runtimes, secure images, networking, storage, Kubernetes workloads, RBAC, NetworkPolicy, scaling and GitOps
-
-Infrastructure Automation: Terraform, Ansible, remote state, reusable modules, policy checks, secrets management, drift detection and controlled deployment
-
-</details>
-
-<details>
-<summary><strong>🔄 Software Delivery, Automation & Observability</strong></summary>
-
-Software Delivery: GitHub Actions, GitLab CI/CD, automated testing, SAST, dependency and secret scanning, SBOM, supply-chain security and rollback strategies
-
-Automation & Platform Software: Bash, Python, API integration, log parsing, monitoring scripts, clean code, testing, distributed systems and runbooks
-
-Observability & Reliability: Prometheus, Grafana, Loki, OpenTelemetry, tracing, alerting, SLI/SLO, Golden Signals, resilience and operational readiness
-
-</details>
-
-<details>
-<summary><strong>☁️ Cloud, Performance & Resilience</strong></summary>
-
-Cloud Engineering: AWS infrastructure, IAM, VPC, EC2, storage, databases, serverless services, governance and Infrastructure as Code
-
-Reliability Engineering: High availability, disaster recovery, incident management, error budgets, resilience testing and operational readiness
-
-Performance Engineering: Profiling, load testing, stress testing, bottleneck analysis, capacity planning and performance-cost trade-offs
-
-</details>
-
-<details>
-<summary><strong>🤖 AI-Assisted Engineering & AI Security</strong></summary>
-
-AI-Assisted Engineering: Infrastructure review, troubleshooting, log analysis, incident triage, technical documentation and verified automation support
-
-AI Systems Security: LLM, RAG and agent security, adversarial machine learning, MLSecOps, AI supply-chain security, red teaming, monitoring and governance
-
-Responsible Use: Output verification, sensitive-data protection, human approval boundaries, auditability and secure AI adoption
-
-</details>
 
 🏗️ Portfolio Direction
 
