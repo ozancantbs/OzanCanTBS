@@ -112,7 +112,7 @@
 
 <h4>Academic software-development project focused on application logic, system structure and technical documentation.</h4>
 
-<h2>🗄️ World Cup Database Management</h2>
+<h2>🗄️ [World Cup Database Management](https://github.com/ozancantbs/World-cup-database-management)</h2>
 
 <h4>Relational-database project focused on schema design, structured queries, data organization and database-management principles.</h4>
 
