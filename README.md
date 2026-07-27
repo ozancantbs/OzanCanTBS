@@ -38,7 +38,7 @@
 
 </div>
 
-<h1>A👨‍💻 About Me</h1>
+<h1>👨‍💻 About Me</h1>
 
 I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.
 
