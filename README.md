@@ -1,135 +1,184 @@
-# 👋 Hi, I'm Ozan
+<div align="center">
 
-![Role](https://img.shields.io/badge/ROLE-COMPUTER_ENGINEERING_STUDENT-1f6feb?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-DEVSECOPS_%26_DEFENSIVE_SECURITY-b42318?style=for-the-badge)
-![Learning](https://img.shields.io/badge/STATUS-ACTIVELY_LEARNING-2ea043?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-F59E0B?style=for-the-badge&labelColor=F59E0B" height="46" alt="Engineering" />
+  <img src="https://img.shields.io/badge/SYSTEMS%2C_DEVOPS_%26_PLATFORM_ENGINEERING-F59E0B?style=for-the-badge&labelColor=F59E0B" height="46" alt="Systems, DevOps and Platform Engineering" />
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-F59E0B?style=for-the-badge&labelColor=F59E0B" height="46" alt="Security" />
+</p>
 
-**Computer Engineering Student | DevSecOps & Cybersecurity Enthusiast**
+Hi, I'm Ozan 👋
 
-I am a Computer Engineering student focused on **cybersecurity, infrastructure security, Linux systems, and DevSecOps**.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1100&color=4493F8&center=true&vCenter=true&width=850&lines=Secure+the+platform.;Automate+the+infrastructure.;Observe+the+system.;Engineer+for+reliability." alt="Animated engineering focus" />
+</a>
 
-I believe that becoming a capable security engineer requires a strong understanding of the systems being protected. For this reason, I am building my knowledge progressively across networking, Linux administration, automation, cloud infrastructure, containerization, and security operations.
+<p>
+  <img src="https://img.shields.io/badge/COMPUTER_ENGINEERING-STUDENT-1F6FEB?style=for-the-badge" alt="Computer Engineering Student" />
+  <img src="https://img.shields.io/badge/DEVSECOPS-SECURE_DELIVERY-B42318?style=for-the-badge" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/DEFENSIVE_SECURITY-2EA043?style=for-the-badge" alt="Defensive Security" />
+  <img src="https://img.shields.io/badge/CLOUD_%26_PLATFORM-7C3AED?style=for-the-badge" alt="Cloud and Platform Engineering" />
+  <img src="https://img.shields.io/badge/AI_SECURITY-0F766E?style=for-the-badge" alt="AI Security" />
+</p>
 
----
+Computer Engineering student building strong foundations across systems, infrastructure, automation, cloud, reliability and security engineering.
 
-## 🎯 Current Focus
+<p>
+  <a href="https://github.com/ozancantbs/Learning-Journal">
+    <img src="https://img.shields.io/badge/%F0%9F%93%98_EXPLORE-LEARNING_JOURNAL-2563EB?style=for-the-badge&labelColor=374151" height="44" alt="Explore Learning Journal" />
+  </a>
+  <a href="https://github.com/ozancantbs/Learning-Journal/blob/main/Road_Map.pdf">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84_OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&labelColor=4B5563" height="44" alt="Open Full Roadmap PDF" />
+  </a>
+</p>
 
-- Network and infrastructure security
-- Linux system administration and hardening
-- DevSecOps practices and secure automation
-- Cloud and container security
-- Technical documentation in English and Turkish
+</div>
 
----
+👨‍💻 About Me
 
-## 🚀 Featured Project
+I am focused on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach starts with understanding how systems actually work, then applying security, automation, observability and reliability practices to those systems.
 
-### [Technical Learning Journal](https://github.com/OzanCyberEngineer/Learning-Journal)
+Current technical direction: Network and infrastructure security · Linux administration and hardening · Secure automation · Cloud and container security · Technical documentation in English and Turkish
 
-My primary repository is an actively maintained, structured learning journal covering **systems, networking, cybersecurity, DevOps, cloud infrastructure, and platform engineering**.
+🚀 Featured Project — Technical Learning Journal
 
-The repository includes:
+Explore the Learning Journal
 
-- Turkish and English technical documentation
-- Protocol and architecture analysis
-- Security risks and hardening techniques
-- Practical validation steps
-- Progressively developed portfolio projects
+A structured, project-driven repository covering systems, networking, cybersecurity, DevOps, cloud infrastructure, platform engineering and AI security.
 
-The roadmap is completed gradually as I advance through each level.
+Documentation
 
----
+Engineering Analysis
 
-# 🧭 Learning Roadmap
+Practical Work
 
-This roadmap focuses on building strong foundations in infrastructure, security, cloud computing, automation, platform engineering, and reliable production systems.
+Turkish and English technical notes
 
-## 🌐 Networking & Infrastructure
+Protocol, architecture and data-flow analysis
 
-OSI and TCP/IP models, Ethernet, MAC addressing, ARP, IPv4, subnetting, routing, DNS, DHCP, TCP/UDP, VLAN/VXLAN, network segmentation, proxy architectures, Layer 4 and Layer 7 load balancing, TLS traffic flow, and software-defined networking concepts.
+Commands, validation steps and troubleshooting
 
-## 🐧 Linux Administration & System Hardening
+Clear explanations and reference material
 
-Linux architecture, file-system hierarchy, command-line utilities, users and groups, permissions, ACLs, process and resource management, systemd, logging, package management, storage, LVM, Linux networking, SSH hardening, firewall configuration, auditing, backup, and privilege-escalation prevention.
+Security risks, limitations and defensive controls
 
-## 🛡️ Security Engineering & Incident Management
+Progressively advanced portfolio projects
 
-Security fundamentals, threat modeling, attack-surface analysis, network threats, malware defense, vulnerability management, cryptography, PKI, firewalls, IDS/IPS concepts, SIEM platforms, security logging, threat hunting, Linux security frameworks, evidence preservation, incident response, and post-incident analysis.
+🧭 Engineering Roadmap
 
-## 🌍 Web, API & Database Foundations
+Level
 
-HTTP/HTTPS, TLS certificates, REST APIs, authentication and authorization, cookies, sessions, JWT, OAuth 2.0, API security, relational databases, PostgreSQL, MySQL, Redis, transactions, indexes, query performance, replication, backup, and data-protection principles.
+Engineering Scope
 
-## 📦 Containers & Orchestration
+Portfolio Milestone
 
-Containerization and virtualization, Linux namespaces, cgroups, Docker architecture, container runtimes, Dockerfiles, multi-stage builds, image optimization, container networking, persistent storage, registries, Docker Compose, Kubernetes architecture, workloads, service discovery, storage, RBAC, NetworkPolicy, workload health, scaling, GitOps, and container hardening.
+🌐 Level 1 — Systems & Security
 
-## ⚙️ Infrastructure as Code & Configuration Management
+Networking, Linux administration, system hardening, security engineering and incident response
 
-Terraform, Ansible, declarative infrastructure, idempotency, remote state, state security, reusable modules, configuration management, infrastructure validation, policy checks, secrets management, version control, code review, drift detection, and controlled infrastructure deployment.
+Hardened Linux Server & Security Monitoring Lab
 
-## 🔄 CI/CD, DevSecOps & GitOps
+📦 Level 2 — Application & Platform Infrastructure
 
-GitHub Actions, GitLab CI/CD, secure pipeline design, automated testing, artifact management, container-image delivery, secret scanning, SAST, dependency scanning, infrastructure scanning, software supply-chain security, OpenID Connect authentication, deployment strategies, rollback processes, and GitOps delivery with Argo CD or Flux.
+Web, APIs, databases, Docker, Kubernetes, Terraform and Ansible
 
-## 🐍 Automation & Systems Scripting
+Secure Containerized Application Platform with IaC
 
-Bash scripting, shell safety, regular expressions, text-processing utilities, Python for infrastructure and security automation, filesystem and process operations, API integration, network utilities, log parsing, monitoring scripts, error handling, testing, packaging, and repetitive-task automation.
+🔄 Level 3 — Delivery, Automation & Observability
 
-## 💻 Software Engineering for Platform Teams
+CI/CD, DevSecOps, GitOps, Bash, Python, software engineering, metrics, logs and traces
 
-Clean code, SOLID principles, design patterns, testing strategies, refactoring, code review, monolithic and microservice architectures, distributed-system fundamentals, API design, dependency management, secure software development, architecture documentation, runbooks, and operational handover.
+Secure CI/CD, GitOps & Observability Platform
 
-## 📊 Observability, Logging & Monitoring
+☁️ Level 4 — Cloud Reliability & Operations
 
-Metrics, logs, traces, events, Prometheus, PromQL, Grafana, centralized logging, Loki, Elasticsearch-based platforms, OpenTelemetry, Jaeger, Tempo, Alertmanager, Golden Signals, RED and USE methods, SLI/SLO monitoring, actionable alerts, security observability, dashboard engineering, and troubleshooting missing or unreliable telemetry.
+AWS, IAM, cloud networking, SRE, high availability, disaster recovery, performance and AI-assisted operations
 
-## ☁️ Cloud Computing & AWS
+Resilient AWS Service Platform & SRE Validation
 
-Cloud-computing fundamentals, AWS global infrastructure, EC2, VPC, public and private subnets, routing, Security Groups, IAM, load balancers, S3, EBS, EFS, RDS, Lambda, SQS, SNS, EventBridge, KMS, Secrets Manager, CloudWatch, CloudTrail, GuardDuty, high availability, disaster recovery, governance, cost control, and Terraform-based AWS infrastructure.
+🤖 Level 5 — AI Systems Security
 
-## 🏛️ Site Reliability & Resilient Architectures
+LLM, RAG and agent security, adversarial ML, MLSecOps, AI supply-chain security, red teaming, monitoring and governance
 
-SLI, SLO, SLA, error budgets, service ownership, toil reduction, on-call practices, incident management, blameless postmortems, capacity planning, resilience patterns, retries, timeouts, circuit breakers, load shedding, high availability, Multi-AZ and Multi-Region architectures, backup validation, disaster recovery, chaos engineering, and operational readiness.
+Secure RAG Security Operations Assistant
 
-## ⚡ Performance Engineering
+🎯 Core Engineering Focus
 
-CPU, memory, disk, network, database, and application-performance analysis; latency, throughput, concurrency, saturation, profiling, flame graphs, load testing, stress testing, soak testing, bottleneck analysis, capacity forecasting, scaling decisions, and performance-versus-cost trade-offs.
+Area
 
-## 🤖 AI-Assisted Engineering
+Focus
 
-AI-assisted scripting, infrastructure review, Kubernetes troubleshooting, Terraform and IAM analysis, log summarization, incident triage, threat-hunting support, technical documentation, output verification, hallucination detection, sensitive-data protection, human approval boundaries, and responsible AI usage in engineering workflows.
+Networking & Infrastructure
 
-## 🏗️ Portfolio Goals
+OSI/TCP-IP, Ethernet, routing, DNS, DHCP, TCP/UDP, VLAN/VXLAN, segmentation, proxies, load balancing and TLS traffic flow
 
-My long-term goal is to transform the knowledge documented in this learning journal into progressively more advanced, production-oriented portfolio projects involving:
+Linux & System Hardening
 
-- Hardened and audited Linux server infrastructure
-- Secure containerized DevSecOps environments
-- Infrastructure as Code and automated configuration management
-- Kubernetes-based application platforms
-- Secure CI/CD and GitOps delivery workflows
-- Cloud-native AWS architectures
-- Centralized monitoring, logging, tracing, and alerting
-- High-availability and disaster-recovery implementations
-- Performance, reliability, and incident-response practices
-- Security-focused platform engineering and operational automation
+Linux architecture, permissions, processes, systemd, storage, networking, SSH, firewalls, auditing, backups and privilege control
 
----
+Security Engineering
 
-## 📚 Other Projects
+Threat modeling, attack-surface analysis, vulnerability management, cryptography, PKI, SIEM, threat hunting and incident response
 
-### 🎓 [Student Information System](https://github.com/OzanCyberEngineer/student-information-system-project)
+Applications & Data
 
-An academic software development project focused on system logic, application structure, and technical documentation.
+HTTP/HTTPS, REST APIs, authentication, authorization, JWT, OAuth 2.0, PostgreSQL, MySQL, Redis, transactions and data protection
 
-### 🗄️ [World Cup Database Management](https://github.com/OzanCyberEngineer/World-cup-database-management)
+Containers & Kubernetes
 
-A database project focused on relational database design, structured query development, data organization, and database management principles.
+Docker, container runtimes, secure images, networking, storage, Kubernetes workloads, RBAC, NetworkPolicy, scaling and GitOps
 
----
+Infrastructure Automation
 
-## 📫 Connect With Me
+Terraform, Ansible, remote state, reusable modules, policy checks, secrets management, drift detection and controlled deployment
 
-I am currently strengthening my technical foundation and building projects in **DevSecOps, cloud infrastructure, Linux systems, and cybersecurity**.
+Software Delivery
 
+GitHub Actions, GitLab CI/CD, testing, SAST, dependency and secret scanning, SBOM, supply-chain security and rollback strategies
+
+Automation & Platform Software
+
+Bash, Python, API integration, log parsing, monitoring scripts, clean code, testing, distributed systems and runbooks
+
+Observability & Reliability
+
+Prometheus, Grafana, Loki, OpenTelemetry, tracing, alerting, SLI/SLO, Golden Signals, resilience and operational readiness
+
+Cloud & Performance
+
+AWS infrastructure, IAM, VPC, EC2, storage, databases, serverless services, HA/DR, profiling, load testing and capacity planning
+
+AI-Assisted & AI Security Engineering
+
+Infrastructure review, incident triage, secure AI usage, LLM/RAG/agent security, MLSecOps, red teaming, monitoring and governance
+
+🏗️ Portfolio Direction
+
+The roadmap is designed to turn documented knowledge into practical, production-oriented work involving:
+
+Hardened Linux infrastructure · Secure container platforms · Infrastructure as Code · Kubernetes · Secure CI/CD and GitOps · AWS architectures · Monitoring, logging and tracing · High availability and disaster recovery · Performance engineering · Incident response · Security-focused platform automation · AI systems security
+
+📚 Other Projects
+
+🎓 Student Information System
+
+Academic software-development project focused on application logic, system structure and technical documentation.
+
+🗄️ World Cup Database Management
+
+Relational-database project focused on schema design, structured queries, data organization and database-management principles.
+
+<div align="center">
+
+📫 Connect With Me
+
+I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.
+
+<a href="https://github.com/ozancantbs">
+  <img src="https://img.shields.io/badge/GITHUB-ozancantbs-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub profile" />
+</a>
+
+<br><br>
+
+<sub><strong>Build the system. Automate the work. Observe the behavior. Secure the platform.</strong></sub>
+
+</div>
