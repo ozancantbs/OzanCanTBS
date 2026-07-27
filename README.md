@@ -56,7 +56,7 @@
 
 * <h4>Technical documentation in English and Turkish</h4>
 
-🚀 Featured Project — Technical Learning Journal</h4>
+<h2>🚀 Featured Project — Technical Learning Journal</h2>
 
 * <h4>Explore the Learning Journal</h4>
 
@@ -82,7 +82,7 @@
 
 
 
-🏗️ Portfolio Direction
+<h2>🏗️ Portfolio Direction</h2>
 
 * <h4>The roadmap transforms documented knowledge into practical, production-oriented work involving:
 
@@ -102,19 +102,19 @@
 
 * <h4>Security-focused platform automation and AI systems security</h4>
 
-📚 Other Projects
+<h1>📚 Other Projects</h1>
 
-🎓 Student Information System
+<h2>🎓 Student Information System</h2>
 
 <h4>Academic software-development project focused on application logic, system structure and technical documentation.</h4>
 
-🗄️ World Cup Database Management
+<h2>🗄️ World Cup Database Management</h2>
 
 <h4>Relational-database project focused on schema design, structured queries, data organization and database-management principles.</h4>
 
 <div align="center">
 
-📫 Connect With Me
+<h2>📫 Connect With Me</h2>
 
 <h4>I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.
 
