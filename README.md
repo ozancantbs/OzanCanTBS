@@ -46,77 +46,77 @@
 
 * <h4>Current Technical Direction</h4>
 
-* Network and infrastructure security
+* <h4>Network and infrastructure security</h4>
 
-* Linux administration and system hardening
+* <h4>Linux administration and system hardening</h4>
 
-* Secure automation and DevSecOps practices
+* <h4>Secure automation and DevSecOps practices</h4>
 
-* Cloud, container and platform security
+* <h4>Cloud, container and platform security</h4>
 
-* Technical documentation in English and Turkish
+* <h4>Technical documentation in English and Turkish</h4>
 
-🚀 Featured Project — Technical Learning Journal
+🚀 Featured Project — Technical Learning Journal</h4>
 
-* Explore the Learning Journal
+* <h4>Explore the Learning Journal</h4>
 
-* A structured, project-driven repository covering systems, networking, cybersecurity, DevOps, cloud infrastructure, platform engineering and AI security.
+* <h4>A structured, project-driven repository covering systems, networking, cybersecurity, DevOps, cloud infrastructure, platform engineering and AI security.</h4>
 
-* Documentation
+* <h4>Documentation</h4>
 
-* Turkish and English technical notes
+* <h4>Turkish and English technical notes</h4>
 
-* Clear explanations and reference material
+* <h4>Clear explanations and reference material</h4>
 
-* Engineering analysis
+* <h4>Engineering analysis</h4>
 
-* Protocol, architecture and data-flow analysis
+* <h4>Protocol, architecture and data-flow analysis</h4>
 
-* Security risks, limitations and defensive controls
+* <h4>Security risks, limitations and defensive controls</h4>
 
-* Practical work
+* <h4>Practical work</h4>
 
-* Commands, validation steps and troubleshooting
+* <h4>Commands, validation steps and troubleshooting</h4>
 
-* Progressively advanced portfolio projects
+* <h4>Progressively advanced portfolio projects</h4>
 
 
 
 🏗️ Portfolio Direction
 
-* The roadmap transforms documented knowledge into practical, production-oriented work involving:
+* <h4>The roadmap transforms documented knowledge into practical, production-oriented work involving:
 
-* Hardened Linux infrastructure and security monitoring
+* <h4>Hardened Linux infrastructure and security monitoring</h4>
 
-* Secure container platforms and Kubernetes environments
+* <h4>Secure container platforms and Kubernetes environments</h4>
 
-* Infrastructure as Code and automated configuration management
+* <h4>Infrastructure as Code and automated configuration management</h4>
 
-* Secure CI/CD, software supply-chain controls and GitOps delivery
+* <h4>Secure CI/CD, software supply-chain controls and GitOps delivery</h4>
 
-* AWS architectures, high availability and disaster recovery
+* <h4>AWS architectures, high availability and disaster recovery</h4>
 
-* Centralized metrics, logging, tracing and actionable alerting
+* <h4>Centralized metrics, logging, tracing and actionable alerting</h4>
 
-* Performance testing, reliability validation and incident response
+* <h4>Performance testing, reliability validation and incident response</h4>
 
-* Security-focused platform automation and AI systems security
+* <h4>Security-focused platform automation and AI systems security</h4>
 
 📚 Other Projects
 
 🎓 Student Information System
 
-Academic software-development project focused on application logic, system structure and technical documentation.
+<h4>Academic software-development project focused on application logic, system structure and technical documentation.</h4>
 
 🗄️ World Cup Database Management
 
-Relational-database project focused on schema design, structured queries, data organization and database-management principles.
+<h4>Relational-database project focused on schema design, structured queries, data organization and database-management principles.</h4>
 
 <div align="center">
 
 📫 Connect With Me
 
-I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.
+<h4>I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.
 
 <a href="https://github.com/ozancantbs">
   <img src="https://img.shields.io/badge/GITHUB-ozancantbs-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub profile" />
