@@ -129,9 +129,6 @@
   Relational-database project focused on schema design, structured queries,
   data organization and database-management principles.
 </h4>
-  Relational-database project focused on schema design, structured queries,
-  data organization and database-management principles.
-</h4>
 
 ---
 
