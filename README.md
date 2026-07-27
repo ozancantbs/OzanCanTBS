@@ -142,12 +142,15 @@
   For collaboration, project discussions or professional opportunities:
 </p>
 
-<a href="mailto:ozancyberengineer@gmail.com">
-  <img
-    src="https://img.shields.io/badge/📧_SEND_ME_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Send me an email"
-  />
-</a>
+<p>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ozancyberengineer@gmail.com&su=GitHub%20Contact">
+    <img
+      src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      height="42"
+      alt="Send me an email"
+    />
+  </a>
+</p>
 
 <br><br>
 
