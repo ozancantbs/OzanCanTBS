@@ -112,15 +112,16 @@
 
 <h4>Academic software-development project focused on application logic, system structure and technical documentation.</h4>
 
----
-
 <h2>🗄️ World Cup Database Management</h2>
 
 <h4>Relational-database project focused on schema design, structured queries, data organization and database-management principles.</h4>
 
 
-<div align="center">
+---
 
+
+<div align="center">
+---
 <h2>📫 Connect With Me</h2>
 
 <h4>I am continuing to build practical experience in DevSecOps, cloud infrastructure, Linux systems, platform engineering and cybersecurity.
