@@ -44,7 +44,8 @@
   <img
 <img width="291" height="81" alt="image" src="https://github.com/user-attachments/assets/5dd2728d-ee13-4833-bece-23fe9b0b322b" />
 </p>
-* <h3> I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.</h3>
+
+<h3> I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.</h3>
 
 ---
 
