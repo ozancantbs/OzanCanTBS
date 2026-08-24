@@ -139,10 +139,10 @@
 
 ---
 
-
 <div align="center">
 
-<h1>📫 Connect With Me</h1>
+<img width="275" height="72" alt="image" src="https://github.com/user-attachments/assets/b450b3b0-24e6-44eb-a572-92b54fe3844e" />
+
 
 <p>
   <h4>For collaboration, project discussions or professional opportunities:</h4>
@@ -154,7 +154,6 @@
       <img width="281" height="57" alt="image" src="https://github.com/user-attachments/assets/fe3017b9-2172-496a-a947-6e7e5de7d559" />
   </a>
 </p>
-
 <br><br>
 <sub><strong>Build the system. Automate the work. Observe the behavior. Secure the platform.</strong></sub>
 </div>
