@@ -61,7 +61,7 @@
 
 ---
 
-<h2>🚀 Featured Project — Technical Learning Journal</h2>
+<img width="641" height="62" alt="image" src="https://github.com/user-attachments/assets/4f9ccb6f-26da-4d28-b2cd-450a87308410" />
 
 * <h4>Explore the Learning Journal</h4>
 
