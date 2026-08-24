@@ -40,11 +40,9 @@
 </div>
 
 ---
-<p align="center">
-  <img
+
 <img width="202" height="66" alt="image" src="https://github.com/user-attachments/assets/0ed39e9b-7e4d-40db-9dfd-6544862e7785" />
-</p>
-<h3>    I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.</h3>
+   <h3>I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.</h3>
 
 * <h4>Current Technical Direction</h4>
 
