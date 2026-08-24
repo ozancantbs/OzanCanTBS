@@ -120,7 +120,6 @@
     <img width="419" height="70" alt="image" src="https://github.com/user-attachments/assets/d1d1b257-59e5-47b5-9ac7-66988f85b1e9" /><a href="https://github.com/ozancantbs/New-University-Student-Portal-">
   </a>
 </h4>
-
 <h4>
   Academic software-development project focused on application logic,
   system structure and technical documentation.
@@ -133,9 +132,6 @@
    <img width="488" height="62" alt="image" src="https://github.com/user-attachments/assets/8ed93fe7-069a-4b76-9048-f4a3c440feb6" />
   </a>
 </h4>
-
----
-
 <h4>
   Relational-database project focused on schema design, structured queries,
   data organization and database-management principles.
