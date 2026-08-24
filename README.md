@@ -151,10 +151,7 @@
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ozancyberengineer@gmail.com&su=GitHub%20Contact">
     <img
-      src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      height="42"
-      alt="Send me an email"
-    />
+      <img width="281" height="57" alt="image" src="https://github.com/user-attachments/assets/fe3017b9-2172-496a-a947-6e7e5de7d559" />
   </a>
 </p>
 
