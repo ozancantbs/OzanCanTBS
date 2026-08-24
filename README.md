@@ -129,8 +129,8 @@
 ---
 
 <h4>
-  🗄️ <a href="https://github.com/ozancantbs/World-cup-database-management">
-   <img width="488" height="62" alt="image" src="https://github.com/user-attachments/assets/8ed93fe7-069a-4b76-9048-f4a3c440feb6" />
+  <a href="https://github.com/ozancantbs/World-cup-database-management">
+   <img width="488" height="40" alt="image" src="https://github.com/user-attachments/assets/8ed93fe7-069a-4b76-9048-f4a3c440feb6" />
   </a>
 </h4>
 
