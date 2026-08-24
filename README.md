@@ -1,7 +1,7 @@
 <div align="center">
 <img width="628" height="58" alt="image" src="https://github.com/user-attachments/assets/f0b9a103-8015-4e2c-8e2e-aab119b9012c" />
 
-
+---
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=520&height=70&lines=Hi%2C+I%27m+Ozan" alt="Hi, I'm Ozan" />
