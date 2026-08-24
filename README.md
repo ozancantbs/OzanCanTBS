@@ -87,7 +87,7 @@
 
 ---
 
-<h2>🏗️ Portfolio Direction</h2>
+<img width="298" height="63" alt="image" src="https://github.com/user-attachments/assets/5b8a1662-329e-412e-8fb0-40c4882380bb" />
 
 * <h4>The roadmap transforms documented knowledge into practical, production-oriented work involving:
 
