@@ -10,7 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=520&height=70&lines=Hi%2C+I%27m+Ozan" alt="Hi, I'm Ozan" />
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48" alt="Animated waving hand" />
 </p>
-<img width="375" height="594" alt="image" src="https://github.com/user-attachments/assets/9067edc3-2a8f-4117-ac43-5f960e65f5f5" />
+<img width="1545" height="518" alt="image" src="https://github.com/user-attachments/assets/3cc6cbef-bb4f-4a10-abf9-b02573a84c07" />
+
 
 
 <a href="https://git.io/typing-svg">
