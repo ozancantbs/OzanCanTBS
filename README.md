@@ -126,11 +126,15 @@
   system structure and technical documentation.
 </h4>
 
-<h3>
+---
+
+<h4>
   🗄️ <a href="https://github.com/ozancantbs/World-cup-database-management">
-    World Cup Database Management
+   <img width="488" height="62" alt="image" src="https://github.com/user-attachments/assets/8ed93fe7-069a-4b76-9048-f4a3c440feb6" />
   </a>
-</h3>
+</h4>
+
+---
 
 <h4>
   Relational-database project focused on schema design, structured queries,
