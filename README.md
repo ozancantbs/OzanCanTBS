@@ -113,11 +113,11 @@
 
 
 
-<img width="419" height="70" alt="image" src="https://github.com/user-attachments/assets/d1d1b257-59e5-47b5-9ac7-66988f85b1e9" /><a href="https://github.com/ozancantbs/New-University-Student-Portal-">
+
 
 <h3>
   🎓 <a href="https://github.com/ozancantbs/New-University-Student-Portal-">
-    Student Information System
+    <img width="419" height="70" alt="image" src="https://github.com/user-attachments/assets/d1d1b257-59e5-47b5-9ac7-66988f85b1e9" /><a href="https://github.com/ozancantbs/New-University-Student-Portal-">
   </a>
 </h3>
 
