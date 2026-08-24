@@ -14,6 +14,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1100&color=4493F8&center=true&vCenter=true&width=900&height=60&lines=Secure+the+platform.;Automate+the+infrastructure.;Observe+the+system.;Engineer+for+reliability." alt="Animated engineering focus" />
 </a>
 
+<img width="615" height="86" alt="image" src="https://github.com/user-attachments/assets/3777b6cc-6f88-4247-b75b-0173a892cf8a" />
+
+
+
 <p>
   <img src="https://img.shields.io/badge/COMPUTER_ENGINEERING-STUDENT-1F6FEB?style=for-the-badge" alt="Computer Engineering Student" />
   <img src="https://img.shields.io/badge/DEVSECOPS-SECURE_DELIVERY-B42318?style=for-the-badge" alt="DevSecOps" />
