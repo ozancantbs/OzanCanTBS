@@ -10,6 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=520&height=70&lines=Hi%2C+I%27m+Ozan" alt="Hi, I'm Ozan" />
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48" alt="Animated waving hand" />
 </p>
+https://github.com/ozancantbs/OzanCanTBS/blob/main/Profile.png
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1100&color=4493F8&center=true&vCenter=true&width=900&height=60&lines=Secure+the+platform.;Automate+the+infrastructure.;Observe+the+system.;Engineer+for+reliability." alt="Animated engineering focus" />
