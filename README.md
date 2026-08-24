@@ -1,12 +1,9 @@
 <div align="center">
 <img width="993" height="85" alt="image" src="https://github.com/user-attachments/assets/7c8b7334-bd57-447c-ad22-4fb2f7611449" />
 
-
-
-
 <p>
   <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-F59E0B?style=for-the-badge&labelColor=F59E0B" height="46" alt="Engineering" />
-  <img src="https://img.shields.io/badge/SYSTEMS%2C_DEVOPS_%26_PLATFORM_ENGINEERING-F59E0B?style=for-the-badge&labelColor=F59E0B" height="60" alt="Systems, DevOps and Platform Engineering" />
+  
   <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-F59E0B?style=for-the-badge&labelColor=F59E0B" height="46" alt="Security" />
 </p>
 
