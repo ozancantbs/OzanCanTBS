@@ -110,14 +110,12 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_PROJECTS_%F0%9F%9B%A0%EF%B8%8F-B42318?style=for-the-badge"
-    height="90"
-    alt="My Academic Projects"
+    <img width="273" height="60" alt="image" src="https://github.com/user-attachments/assets/a98ab35c-57cd-4d1e-9c8f-6d8ea14d87a3" />
   />
 </p>
 
 <img width="273" height="60" alt="image" src="https://github.com/user-attachments/assets/a98ab35c-57cd-4d1e-9c8f-6d8ea14d87a3" />
----
+
 
 <h3>
   🎓 <a href="https://github.com/ozancantbs/New-University-Student-Portal-">
