@@ -42,7 +42,7 @@
 
 ---
 
-<img width="202" height="66" alt="image" src="https://github.com/user-attachments/assets/0ed39e9b-7e4d-40db-9dfd-6544862e7785" />
+<img width="210" height="74" alt="image" src="https://github.com/user-attachments/assets/69546d64-7f9d-4836-863d-6f977c8f2d7e" />
 <h4>I focus on cybersecurity, infrastructure security, Linux systems and DevSecOps. My learning approach begins with understanding how systems work, then applying security, automation, observability and reliability practices to those systems.</h4>
 
 * <h4>Current Technical Direction</h4>
