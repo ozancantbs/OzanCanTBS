@@ -16,16 +16,6 @@
 
 <img width="615" height="86" alt="image" src="https://github.com/user-attachments/assets/3777b6cc-6f88-4247-b75b-0173a892cf8a" />
 
-
-
-<p>
-  <img src="https://img.shields.io/badge/COMPUTER_ENGINEERING-STUDENT-1F6FEB?style=for-the-badge" alt="Computer Engineering Student" />
-  <img src="https://img.shields.io/badge/DEVSECOPS-SECURE_DELIVERY-B42318?style=for-the-badge" alt="DevSecOps" />
-  <img src="https://img.shields.io/badge/DEFENSIVE_SECURITY-2EA043?style=for-the-badge" alt="Defensive Security" />
-  <img src="https://img.shields.io/badge/CLOUD_%26_PLATFORM-7C3AED?style=for-the-badge" alt="Cloud and Platform Engineering" />
-  <img src="https://img.shields.io/badge/AI_SECURITY-0F766E?style=for-the-badge" alt="AI Security" />
-</p>
-
 <h3><strong>Computer Engineering student building strong foundations across systems, infrastructure, automation, cloud, reliability and security engineering.</strong></h1>
 
 <br><br>
