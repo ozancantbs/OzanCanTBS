@@ -31,7 +31,7 @@
 
 <p>
   <a href="https://github.com/ozancantbs/Learning-Journal">
-    <img src="https://img.shields.io/badge/%F0%9F%93%98_EXPLORE-LEARNING_JOURNAL-2563EB?style=for-the-badge&labelColor=374151" height="44" alt="Explore Learning Journal" />
+    <img width="410" height="48" alt="image" src="https://github.com/user-attachments/assets/a5b98134-180a-41d3-88e2-3cf1483888d4" />
   </a>
   <a href="https://github.com/ozancantbs/Learning-Journal/blob/main/Road_Map.pdf">
     <img src="https://img.shields.io/badge/%F0%9F%93%84_OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&labelColor=4B5563" height="44" alt="Open Full Roadmap PDF" />
